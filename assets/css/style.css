@@ -199,7 +199,6 @@ ul a:active {
 .box-container section:nth-child(1) img {
   display: flex;
   margin-left: 40%;
-  flex: 1 1 100%;
   position: absolute;
   width: 30%;
 }

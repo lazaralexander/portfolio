@@ -6,7 +6,7 @@ In this project we were tasked with creating a portfolio for our current and fut
 
 Through the use of .html and .css files we were required to create a website from scratch that displayed ourselves (including our respective social media profiles) and our work in a neat and concise manner, all while meeting the acceptance criteria laid out before you.
 
-# Original Homework Assignment Details
+# Assingment Details
 
 ## User Story
 
