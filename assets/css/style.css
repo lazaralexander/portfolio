@@ -185,7 +185,6 @@ ul a:active {
 
 .box-container section:nth-child(1) {
   flex: 1 0 100%;
-  background-color: var(--light-gray);
 }
 
 .box-container section:nth-child(2) {
@@ -202,16 +201,14 @@ ul a:active {
   margin-left: 40%;
   flex: 1 1 100%;
   position: absolute;
-  width: 29%;
+  width: 30%;
 }
 
 .box-container section:hover {
   transform: translateX(0);
   box-shadow:
-    inset 10px 0 300px var(--light),
-    1px 0 40px var(--black);
-    width: 310px;
-    height: 305px;
+    inset 10px 0 300px,
+    1px 0 40px;
 }
 
 @media (max-width: 768px) {
