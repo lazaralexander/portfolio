@@ -45,7 +45,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 # Usage
 
-![Screenshot of Website](https://github.com/lazaralexander/portfolio/blob/main/assets/images/Screenshot%202022-03-02%20101354.png "Website")
+![Screenshot of Website](https://github.com/lazaralexander/portfolio/blob/main/assets/images/Screenshot%202022-03-02%20181710.png "Website")
 
 # Links
 
