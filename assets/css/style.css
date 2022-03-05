@@ -1,3 +1,4 @@
+/*root section with variables that are used throughout the .css file */
 :root {
   --white: #fff;
   --black: #000000;  
@@ -5,7 +6,7 @@
   --light: #425748; 
   --light-gray: #9b9b9b;
 }
-
+/*global settings*/
 * {
   box-sizing: border-box;
   font-family: monospace;
@@ -124,7 +125,7 @@ ul a:active {
   padding: 10px 20px 10px 20px;
   border-radius: 3px;
 }
-
+/*section that affects about me*/
 .section {
   display: flex;
 }
@@ -154,7 +155,7 @@ ul a:active {
   width: 900px;
   margin: 20px;  
 }
-
+/*box container section that positions images and work section*/
 .box-container {
   display: flex;
   flex-direction: row;
@@ -207,7 +208,7 @@ ul a:active {
     inset 10px 0 300px,
     1px 0 40px;
 }
-
+/*media query that will help with smaller screens*/
 @media (max-width: 768px) {
   .section {
     flex-direction: column;
